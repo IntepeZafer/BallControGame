@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &144100110 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4035034204032910535, guid: aed3f9a3fa2a8ed469e1ba8f0bd9f1bb, type: 3}
+  m_PrefabInstance: {fileID: 3501970907775264276}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &245963551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -900,6 +905,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefaps: {fileID: 8449361985802098881, guid: d9f86b0cb8f82084bbd8a732f87959eb, type: 3}
+  PowerUpPrefaps: {fileID: 144100110}
+  enemyCount: 0
+  enemyVawe: 1
 --- !u!4 &1814716201
 Transform:
   m_ObjectHideFlags: 0
